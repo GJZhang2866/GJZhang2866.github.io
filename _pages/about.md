@@ -26,7 +26,7 @@ I have published some academic papers at the top international conferences like 
 
 # 🔥 News
 - *2025.11*: &nbsp; 🎉 One paper on Event Extraction is accepted by AAAI 2026.
-- *2025.08*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by EMNLP 2025.
+- *2025.08*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.616/).
 - *2024.12*: &nbsp; 🎉 One paper on Explainable Question Answering is accepted by Information Science.
 - *2024.11*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by COLING 2025.
 - *2024.08*: &nbsp; 🎉 One paper on Event Extraction is accepted by TALLIP.
