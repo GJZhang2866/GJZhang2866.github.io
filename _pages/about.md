@@ -25,7 +25,8 @@ I have published some academic papers at the top international conferences like 
 
 
 # 🔥 News
-- *2024.12*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by EMNLP 2025.
+- *2025.11*: &nbsp; 🎉 One paper on Event Extraction is accepted by AAAI 2026.
+- *2025.08*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by EMNLP 2025.
 - *2024.12*: &nbsp; 🎉 One paper on Explainable Question Answering is accepted by Information Science.
 - *2024.11*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by COLING 2025.
 - *2024.08*: &nbsp; 🎉 One paper on Event Extraction is accepted by TALLIP.
@@ -39,6 +40,17 @@ I have published some academic papers at the top international conferences like 
 
 
 # 📝 Main Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/eci.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Dynamic Energy-Based Contrastive Learning with Multi-Stage Knowledge Verification for Event Causality Identification
+
+Ya Su, Hu Zhang, Yue Fan,  **Guangjun Zhang**, YuJie Wang, Ru Li, Hongye Tan
+- We propose the ECI method enhanced by Dynamic Energy-Based Contrastive Learning.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/LKCER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
