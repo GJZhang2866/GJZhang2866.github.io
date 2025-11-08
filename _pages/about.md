@@ -1,4 +1,3 @@
-<img width="4000" height="1921" alt="AAAI-26" src="https://github.com/user-attachments/assets/be46f229-8c78-4dd2-b434-57f2e1571cdf" />---
 permalink: /
 title: ""
 excerpt: ""
