@@ -28,7 +28,7 @@ I have published some academic papers at the top international conferences like 
 - *2025.11*: &nbsp; 🎉 One paper on Event Extraction is accepted by AAAI 2026.
 - *2025.08*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.616/).
 - *2024.12*: &nbsp; 🎉 One paper on Explainable Question Answering is accepted by Information Science.
-- *2024.11*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by [COLING 2025] (https://aclanthology.org/2025.coling-main.495/).
+- *2024.11*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by [COLING 2025](https://aclanthology.org/2025.coling-main.495/).
 - *2024.08*: &nbsp; 🎉 One paper on Event Extraction is accepted by TALLIP.
 - *2024.07*: &nbsp; 😥😭 One paper on Visual Question Answering is rejected by MM.
 - *2024.05*: &nbsp; 🎉One paper on Event Extraction is accepted in [ACL 2024 Main Coference](https://2024.aclweb.org/). [\[Code\]](https://github.com/GJZhang2866/HMPEAE).
