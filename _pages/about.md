@@ -85,6 +85,7 @@ Ya Su,Hu Zhang, **Guangjun Zhang**, Yujie Wang, Yu Fan, Ru Li, Yuanlong Wang
 
 
 # 🎖 Honors and Awards
+- *2025.06* The Second Class Award Scholarship of the Graduate School, Shanxi University, in 2025.
 - *2024.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
 - *2023.06* The Second Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
 - *2022.06* The Third Class Award Scholarship of the Graduate School, Shanxi University, in 2022.
@@ -94,7 +95,7 @@ Ya Su,Hu Zhang, **Guangjun Zhang**, Yujie Wang, Yu Fan, Ru Li, Yuanlong Wang
 
 
 # 📖 Educations
-- *2022.09 - *, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
+- *2022.09 -*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
 - *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
 - *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
 - *2013.09 - 2016.06*, No.2 Middle School of Hengshui. High school student.
