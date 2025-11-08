@@ -20,7 +20,7 @@ redirect_from:
 I am pursuing my PhD degree (2022~) at [Shanxi University](https://www.sxu.edu.cn/), supervised by Prof. [Hu Zhang](https://cs.sxu.edu.cn/faculty/professor/3367/index.htm). Before that, I received a B.S. degree from Shanxi University in 2020, majoring in computer science and technology. 
 
 My research interests include Information Extraction, Knowledge Graphs and Language Models.
-I have published some academic papers at the top international conferences like ACL, AAAI, EMNLP, Coling, ICONLP, IJCNN and journals like Journal of Peking University, Journal of Chinese Information Processing and Information Science.
+I have published some academic papers at the top international conferences like ACL, AAAI, EMNLP, COLING, ICONLP, IJCNN and journals like Journal of Peking University, Journal of Chinese Information Processing, Information Science and TALLIP.
 . Additionally, I participated in natural language processing evaluations related to MRC and won the national seconde prize(CAIL 2021) and  the national third prize(CAIL 2020).
 
 
@@ -28,7 +28,7 @@ I have published some academic papers at the top international conferences like 
 - *2025.11*: &nbsp; 🎉 One paper on Event Extraction is accepted by AAAI 2026.
 - *2025.08*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.616/).
 - *2024.12*: &nbsp; 🎉 One paper on Explainable Question Answering is accepted by Information Science.
-- *2024.11*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by COLING 2025.
+- *2024.11*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by [COLING 2025] (https://aclanthology.org/2025.coling-main.495/).
 - *2024.08*: &nbsp; 🎉 One paper on Event Extraction is accepted by TALLIP.
 - *2024.07*: &nbsp; 😥😭 One paper on Visual Question Answering is rejected by MM.
 - *2024.05*: &nbsp; 🎉One paper on Event Extraction is accepted in [ACL 2024 Main Coference](https://2024.aclweb.org/). [\[Code\]](https://github.com/GJZhang2866/HMPEAE).
@@ -41,7 +41,7 @@ I have published some academic papers at the top international conferences like 
 
 # 📝 Main Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI-26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AAAI-26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction
@@ -66,7 +66,7 @@ Ya Su, Hu Zhang, Yue Fan,  **Guangjun Zhang**, YuJie Wang, Ru Li, Hongye Tan
 
 Enhancing Event Causality Identification with LLM Knowledge and Concept-Level Event Relations
 
-Su Ya,Hu Zhang, **Guangjun Zhang**, Yujie Wang, Yu Fan, Ru Li, Yuanlong Wang
+Ya Su,Hu Zhang, **Guangjun Zhang**, Yujie Wang, Yu Fan, Ru Li, Yuanlong Wang
 - We propose the ECI method enhanced by LLM Knowledge and Concept-Level Event Relations.
 </div>
 </div>
