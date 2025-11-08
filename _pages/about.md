@@ -1,4 +1,4 @@
----
+<img width="4000" height="1921" alt="AAAI-26" src="https://github.com/user-attachments/assets/be46f229-8c78-4dd2-b434-57f2e1571cdf" />---
 permalink: /
 title: ""
 excerpt: ""
@@ -41,7 +41,17 @@ I have published some academic papers at the top international conferences like 
 
 # 📝 Main Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/eci.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/AAAI-26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction
+
+**Guangjun Zhang**, Hu Zhang, Yazhou Han, Yue Fan, Yuhang Shao, Ru Li, Hongye Tan
+- We propose a Multi-Agent Collaboration Framework for Zero-shot EAE.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2025</div><img src='images/eci.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Dynamic Energy-Based Contrastive Learning with Multi-Stage Knowledge Verification for Event Causality Identification
