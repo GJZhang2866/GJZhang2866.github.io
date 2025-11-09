@@ -25,17 +25,17 @@ I have published some academic papers at the top international conferences like 
 
 
 # 🔥 News
-2025.
+
 - *2025.11*: &nbsp; 🎉 One paper on Event Extraction is accepted by AAAI 2026.
+- *2025.11*: &nbsp; 🎉 We presented a poster and gave an oral presentation at EMNLP 2025 in Suzhou, China.
 - *2025.08*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.616/).
-2024.
 - *2024.12*: &nbsp; 🎉 One paper on Explainable Question Answering is accepted by [Information Science](https://www.sciencedirect.com/science/article/abs/pii/S0020025524016773).
 - *2024.11*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by [COLING 2025](https://aclanthology.org/2025.coling-main.495/).
 - *2024.08*: &nbsp; 🎉 One paper on Event Extraction is accepted by TALLIP.
 - *2024.05*: &nbsp; 🎉One paper on Event Extraction is accepted in [ACL 2024 Main Coference](https://2024.aclweb.org/). [\[Code\]](https://github.com/GJZhang2866/HMPEAE).
 - *2024.04*: &nbsp; 🎉One paper on Graph Representation Learning is accepted in IJCNN 2024.
 - *2023.10*: &nbsp; 🎉We share our Outstanding Paper report on [CCKS 2023](https://sigkg.cn/ccks2023/program/).
-- *2023.08*: &nbsp; 🎉Two papers on [Text Summarization](https://link.springer.com/chapter/10.1007/978-981-99-8148-9_16) and [Relation Extraction](https://link.springer.com/chapter/10.1007/978-981-99-8148-9_17) are accepted in ICONLP 2023.
+- *2023.08*: &nbsp; 🎉Two papers on [Text Summarization](https://link.springer.com/chapter/10.1007/978-981-99-8148-9_16) and [Relation Extraction](https://link.springer.com/chapter/10.1007/978-981-99-8148-9_17) are accepted in ICONLP 
 - *2023.08*: &nbsp; 🎉One Journal paper on Named Entity Recognition is accepted to the Journal of Chinese Information Processing.
 - *2023.08*: &nbsp; 🎉One Journal paper on Named Entity Recognition is accepted to the Journal of Peking University.
 
