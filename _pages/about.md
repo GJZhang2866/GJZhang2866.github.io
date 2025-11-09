@@ -77,7 +77,7 @@ Ya Su,Hu Zhang, **Guangjun Zhang**, Yujie Wang, Yu Fan, Ru Li, Yuanlong Wang
 
 Weakly-supervised explainable question answering via question aware contrastive learning and adaptive gate mechanism
 
-Yue Fan, Hu Zhang, Ru Li, Yujie Wang, Guangjun Zhang, Hongye Tan, Jiye Liang
+Yue Fan, Hu Zhang, Ru Li, Yujie Wang, **Guangjun Zhang**, Hongye Tan, Jiye Liang
 - We propose a  weakly supervised XQA method, which automatically captures effective remotely supervised signals and mines evidence coupled with answers.
 </div>
 </div>
