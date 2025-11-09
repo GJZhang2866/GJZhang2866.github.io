@@ -23,6 +23,8 @@ My research interests include Information Extraction, Knowledge Graphs and Langu
 I have published some academic papers at the top international conferences like ACL, AAAI, EMNLP, COLING, ICONLP, IJCNN and journals like Journal of Peking University, Journal of Chinese Information Processing, Information Science and TALLIP.
 . Additionally, I participated in natural language processing evaluations related to MRC and won the national seconde prize(CAIL 2021) and  the national third prize(CAIL 2020).
 
+Be free to contact me by [email](zgj2866@gmail.com) if you are interested in discussing or collaborating with me. 
+
 
 # 🔥 News
 
