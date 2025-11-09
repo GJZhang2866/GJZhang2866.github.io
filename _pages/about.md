@@ -26,8 +26,8 @@ I have published some academic papers at the top international conferences like 
 
 # 🔥 News
 
-- *2025.11*: &nbsp; 🎉 One paper on Event Extraction is accepted by AAAI 2026.
-- *2025.11*: &nbsp; 🎨 We presented a poster (by our junior labmate Ya Su) and gave an oral presentation (by our junior labmate Boxiang Ma)  at EMNLP 2025 in Suzhou, China.
+- *2025.11*: &nbsp; 🎉 One paper on Event Extraction is accepted by AAAI 2026 (Thanks to **Ya Su**' prayers!!!).
+- *2025.11*: &nbsp; 🎨 We presented a poster (by our junior labmate **Ya Su**) and gave an oral presentation (by our junior labmate **Boxiang Ma**)  at EMNLP 2025 in Suzhou, China.
 - *2025.08*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.616/).
 - *2024.12*: &nbsp; 🎉 One paper on Explainable Question Answering is accepted by [Information Science](https://www.sciencedirect.com/science/article/abs/pii/S0020025524016773).
 - *2024.11*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by [COLING 2025](https://aclanthology.org/2025.coling-main.495/).
