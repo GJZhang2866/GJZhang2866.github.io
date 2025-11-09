@@ -20,7 +20,7 @@ redirect_from:
 I am pursuing my PhD degree (2022~) at [Shanxi University](https://www.sxu.edu.cn/), supervised by Prof. [Hu Zhang](https://cs.sxu.edu.cn/faculty/professor/3367/index.htm). Before that, I received a B.S. degree from Shanxi University in 2020, majoring in computer science and technology. 
 
 My research interests include Information Extraction, Knowledge Graphs and Language Models.
-I have published some academic papers at the top international conferences like ACL, AAAI, EMNLP, COLING, ICONLP, IJCNN and journals like Journal of Peking University, Journal of Chinese Information Processing, Information Science and TALLIP.
+I have published some academic papers at the top international conferences like ACL, AAAI, EMNLP, COLING, ICONLP, IJCNN and journals like *Journal of Peking University*, *Journal of Chinese Information Processing*, *Information Science* and TALLIP.
 . Additionally, I participated in natural language processing evaluations related to MRC and won the national seconde prize(CAIL 2021) and  the national third prize(CAIL 2020).
 
 Be free to contact me by <a href="mailto:zgj2866@gmail.com">email</a> if you are interested in discussing or collaborating with me.
