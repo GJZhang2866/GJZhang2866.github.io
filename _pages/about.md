@@ -15,7 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
-<span class='anchor' id='about-me'></span>
+<span class='anchor' id='about-me'></span> 
 
 I am pursuing my PhD degree (2022~) at [Shanxi University](https://www.sxu.edu.cn/), supervised by Prof. [Hu Zhang](https://cs.sxu.edu.cn/faculty/professor/3367/index.htm). Before that, I received a B.S. degree from Shanxi University in 2020, majoring in computer science and technology. 
 
