@@ -87,7 +87,7 @@ Yue Fan, Hu Zhang, Ru Li, Yujie Wang, **Guangjun Zhang**, Hongye Tan, Jiye Liang
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/HPN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hyperspherical Multi-Prototype with Optimal Transport for Event Argument Extraction](https://github.com/GJZhang2866/HMPEAE/blob/main/paper.pdf](https://aclanthology.org/2024.acl-long.502/)
+[Hyperspherical Multi-Prototype with Optimal Transport for Event Argument Extraction](https://aclanthology.org/2024.acl-long.502/)
 
 **Guangjun Zhang**, Hu Zhang, Yujie Wang, Ru Li, Hongye Tan and Jiye Liang.
 
