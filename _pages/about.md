@@ -45,12 +45,21 @@ Be free to contact me by <a href="mailto:zgj2866@gmail.com">email</a> if you are
 
 # 📝 Main Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/SRCR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+SRCR: Faithful structured reasoning with curriculum reinforcement learning for explainable question answering
+
+Yue Fan, Hu Zhang, Ru Li, **Guangjun Zhang**, Yujie Wang, Hongye Tan, Yuanlong Wang, Xiaoli Li, Jiye Liang, 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/ICASSP-26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 QUERY-GUIDED PROTOTYPICAL LEARNING FOR FEW-SHOT DOCUMENT-LEVEL RELATION EXTRACTION
 
-Hu Zhang, Yazhou Han, Yazhou Han, **Guangjun Zhang**
+Hu Zhang, Yazhou Han, **Guangjun Zhang**
 </div>
 </div>
 
