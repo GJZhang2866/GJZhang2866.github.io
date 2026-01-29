@@ -27,15 +27,16 @@ Be free to contact me by <a href="mailto:zgj2866@gmail.com">email</a> if you are
 
 
 # 🔥 News
-
-- *2025.11*: &nbsp; 🎉 One paper on Event Extraction is accepted by AAAI 2026 (Thanks to **Ya Su**'s prayers!!!).
+- *2026.01*: &nbsp; 🎉 One paper on Explainable Question Answering is accepted by IPM. (CCF-B)
+- *2026.01*: &nbsp; 🎉 One paper on Few-shot Relation Extraction is accepted by ICASSP 2026.  (CCF-B)
+- *2025.11*: &nbsp; 🎉 One paper on Event Extraction is accepted by AAAI 2026 (Thanks to **Ya Su**'s prayers!!!). (CCF-A)
 - *2025.11*: &nbsp; 🎨 We presented a poster (by our junior labmate **Ya Su**) and gave an oral presentation (by our junior labmate **Boxiang Ma**)  at EMNLP 2025 in Suzhou, China.
-- *2025.08*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.616/).
-- *2024.12*: &nbsp; 🎉 One paper on Explainable Question Answering is accepted by [Information Science](https://www.sciencedirect.com/science/article/abs/pii/S0020025524016773).
-- *2024.11*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by [COLING 2025](https://aclanthology.org/2025.coling-main.495/).
-- *2024.08*: &nbsp; 🎉 One paper on Event Extraction is accepted by TALLIP.
-- *2024.05*: &nbsp; 🎉 One paper on Event Extraction is accepted in [ACL 2024 Main Coference](https://2024.aclweb.org/). [\[Code\]](https://github.com/GJZhang2866/HMPEAE).
-- *2024.04*: &nbsp; 🎉 One paper on Graph Representation Learning is accepted in IJCNN 2024.
+- *2025.08*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.616/).  (CCF-B)
+- *2024.12*: &nbsp; 🎉 One paper on Explainable Question Answering is accepted by [Information Science](https://www.sciencedirect.com/science/article/abs/pii/S0020025524016773). (CCF-B)
+- *2024.11*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by [COLING 2025](https://aclanthology.org/2025.coling-main.495/). (CCF-B)
+- *2024.08*: &nbsp; 🎉 One paper on Event Extraction is accepted by TALLIP.(CCF-C)
+- *2024.05*: &nbsp; 🎉 One paper on Event Extraction is accepted in [ACL 2024 Main Coference](https://2024.aclweb.org/). [\[Code\]](https://github.com/GJZhang2866/HMPEAE). (CCF-A)
+- *2024.04*: &nbsp; 🎉 One paper on Graph Representation Learning is accepted in IJCNN 2024. (CCF-C)
 - *2023.10*: &nbsp; 🎉 We share our Outstanding Paper report on [CCKS 2023](https://sigkg.cn/ccks2023/program/).
 - *2023.08*: &nbsp; 🎉 Two papers on [Text Summarization](https://link.springer.com/chapter/10.1007/978-981-99-8148-9_16) and [Relation Extraction](https://link.springer.com/chapter/10.1007/978-981-99-8148-9_17) are accepted in ICONLP 
 - *2023.08*: &nbsp; 🎉 One Journal paper on Named Entity Recognition is accepted to the Journal of Chinese Information Processing.
