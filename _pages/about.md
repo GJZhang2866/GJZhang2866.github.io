@@ -29,7 +29,7 @@ Be free to contact me by <a href="mailto:zgj2866@gmail.com">email</a> if you are
 # 🔥 News
 - *2026.01*: &nbsp; 🎉 One paper on Explainable Question Answering is accepted by IPM. (CCF-B)
 - *2026.01*: &nbsp; 🎉 One paper on Few-shot Relation Extraction is accepted by ICASSP 2026.  (CCF-B)
-- *2025.11*: &nbsp; 🎉 One paper on Event Extraction is accepted by AAAI 2026 (Thanks to **Ya Su**'s prayers!!!). (CCF-A)
+- *2025.11*: &nbsp; 🎉 One paper on Event Extraction is accepted by AAAI 2026 (Thanks to **Ya Su**'s prayers!!!). [\[Code\]](https://github.com/GJZhang2866/GenExtract).(CCF-A)
 - *2025.11*: &nbsp; 🎨 We presented a poster (by our junior labmate **Ya Su**) and gave an oral presentation (by our junior labmate **Boxiang Ma**)  at EMNLP 2025 in Suzhou, China.
 - *2025.08*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by [EMNLP 2025](https://aclanthology.org/2025.emnlp-main.616/).  (CCF-B)
 - *2024.12*: &nbsp; 🎉 One paper on Explainable Question Answering is accepted by [Information Science](https://www.sciencedirect.com/science/article/abs/pii/S0020025524016773). (CCF-B)
@@ -69,6 +69,7 @@ Hu Zhang, Yazhou Han, **Guangjun Zhang**
 Learning to Generate and Extract: A Multi-Agent Collaboration Framework For Zero-shot Document-level Event Arguments Extraction
 
 **Guangjun Zhang**, Hu Zhang, Yazhou Han, Yue Fan, Yuhang Shao, Ru Li, Hongye Tan
+[**Project**](https://github.com/GJZhang2866/GenExtract) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a Multi-Agent Collaboration Framework for Zero-shot EAE.
 </div>
 </div>
