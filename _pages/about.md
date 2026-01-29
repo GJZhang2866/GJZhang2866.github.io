@@ -45,6 +45,15 @@ Be free to contact me by <a href="mailto:zgj2866@gmail.com">email</a> if you are
 
 # 📝 Main Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/ICASSP-26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+QUERY-GUIDED PROTOTYPICAL LEARNING FOR FEW-SHOT DOCUMENT-LEVEL RELATION EXTRACTION
+
+Hu Zhang, Yazhou Han, Yazhou Han, **Guangjun Zhang**
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/AAAI-26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
