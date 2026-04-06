@@ -28,7 +28,7 @@ Be free to contact me by <a href="mailto:zgj2866@gmail.com">email</a> if you are
 
 
 # 🔥 News
-- *2026.04*: &nbsp; 🎉 One paper on Logical Question Answering is accepted by IPM. (CCF-A)
+- *2026.04*: &nbsp; 🎉 One paper on Logical Question Answering is accepted by ACL 2026. (CCF-A)
 - *2026.01*: &nbsp; 🎉 One paper on Explainable Question Answering is accepted by IPM. (CCF-B)
 - *2026.01*: &nbsp; 🎉 One paper on Few-shot Relation Extraction is accepted by ICASSP 2026.  (CCF-B)
 - *2025.11*: &nbsp; 🎉 One paper on Event Extraction is accepted by AAAI 2026 (Thanks to **Ya Su**'s prayers!!!). [\[Code\]](https://github.com/GJZhang2866/GenExtract).(CCF-A)
