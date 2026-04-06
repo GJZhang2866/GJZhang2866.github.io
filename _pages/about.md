@@ -59,10 +59,6 @@ Yue Fan, Hu zhang, Yunxiao Zhao, **Guangjun Zhang**, Hao ZHAN, Ru Li, Hongye Tan
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/ICASSP-26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/SRCR.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
 SRCR: Faithful structured reasoning with curriculum reinforcement learning for explainable question answering
 
 Yue Fan, Hu Zhang, Ru Li, **Guangjun Zhang**, Yujie Wang, Hongye Tan, Yuanlong Wang, Xiaoli Li, Jiye Liang, 
