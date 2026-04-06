@@ -28,6 +28,7 @@ Be free to contact me by <a href="mailto:zgj2866@gmail.com">email</a> if you are
 
 
 # 🔥 News
+- *2026.04*: &nbsp; 🎉 One paper on Logical Question Answering is accepted by IPM. (CCF-A)
 - *2026.01*: &nbsp; 🎉 One paper on Explainable Question Answering is accepted by IPM. (CCF-B)
 - *2026.01*: &nbsp; 🎉 One paper on Few-shot Relation Extraction is accepted by ICASSP 2026.  (CCF-B)
 - *2025.11*: &nbsp; 🎉 One paper on Event Extraction is accepted by AAAI 2026 (Thanks to **Ya Su**'s prayers!!!). [\[Code\]](https://github.com/GJZhang2866/GenExtract).(CCF-A)
@@ -45,6 +46,19 @@ Be free to contact me by <a href="mailto:zgj2866@gmail.com">email</a> if you are
 
 
 # 📝 Main Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/b4d44eab-eea8-49e1-9bb0-f97db8a48905.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration
+
+Yue Fan, Hu zhang, Yunxiao Zhao, **Guangjun Zhang**, Hao ZHAN, Ru Li, Hongye Tan, Wang Yuanlong
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICASSP 2026</div><img src='images/ICASSP-26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IPM</div><img src='images/SRCR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
