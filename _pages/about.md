@@ -46,13 +46,29 @@ Be free to contact me by <a href="mailto:zgj2866@gmail.com">email</a> if you are
 
 
 # 📝 Main Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2026</div></div></div>
+<div class='paper-box-text' markdown="1">
+
+Anonymous submission paper 
+
+Hu zhang, **Guangjun Zhang(corresponding)***, Yazhou Han, Yanlong Wang, Yue Fan, YuJie Wang, Hongye Tan, Ru Li
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CIKM 2026</div></div></div>
+<div class='paper-box-text' markdown="1">
+
+Anonymous submission paper 
+
+**Guangjun Zhang**, Hu Zhang, Yue Fan, Yujie Wang, Hongye Tan and Ru Li
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2026</div><img src='images/b4d44eab-eea8-49e1-9bb0-f97db8a48905.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Leibniz: Theory-of-Mind Driven Neuro-Symbolic Logical Reasoning via Multi-Agent Collaboration
 
-Yue Fan, Hu zhang, Yunxiao Zhao, **Guangjun Zhang**, Hao ZHAN, Ru Li, Hongye Tan, Wang Yuanlong
+**Guangjun Zhang**, Hu Zhang, Yazhou Han, Yue Fan, Yuhang Shao, Ru Li, Hongye Tan
 </div>
 </div>
 
