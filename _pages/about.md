@@ -145,6 +145,7 @@ Yue Fan, Hu Zhang, Ru Li, Yujie Wang, **Guangjun Zhang**, Hongye Tan, Jiye Liang
 
 
 # 🎖 Honors and Awards
+- *2026.06* The Outstanding Graduate Student, Shanxi University, in 2026.
 - *2025.06* The Second Class Award Scholarship of the Graduate School, Shanxi University, in 2025.
 - *2024.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
 - *2023.06* The Second Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
