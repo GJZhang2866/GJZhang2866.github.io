@@ -145,9 +145,12 @@ Yue Fan, Hu Zhang, Ru Li, Yujie Wang, **Guangjun Zhang**, Hongye Tan, Jiye Liang
 
 
 # 🎖 Honors and Awards
+- *2026.06* The Outstanding Doctoral Graduate, Shanxi University, in 2026.
 - *2026.06* The Outstanding Graduate Student, Shanxi University, in 2026.
+-  *2026.05*  Outstanding Communist Party Member, School of Computer and Information Technology， Shanxi University, in 2026.
 - *2025.06* The Second Class Award Scholarship of the Graduate School, Shanxi University, in 2025.
 - *2024.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
+- *2024.05*  Outstanding Communist Party Member, School of Computer and Information Technology， Shanxi University, in 2024.
 - *2023.06* The Second Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
 - *2022.06* The Third Class Award Scholarship of the Graduate School, Shanxi University, in 2022.
 - *2021.10* CAIL 2021 Machine Reading Comprehension, Second Prize.
